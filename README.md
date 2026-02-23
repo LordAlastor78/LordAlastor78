@@ -1,4 +1,4 @@
-## Hi there 👋
+  
 
 <!--
 **LordAlastor78/LordAlastor78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordAlastor78/LordAlastor78/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordAlastor78/LordAlastor78/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LordAlastor78/LordAlastor78/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<!-- For canvas -->
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=LordAlastor78&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=LordAlastor78" />
