@@ -69,10 +69,11 @@ public class Alastor {
 
 ## 🎯 Objetivos 2026
 
-- [ ] Lanzar Haztya v1.1 con soporte YARA rules
-- [ ] Publicar en F-Droid y Play Store
+- [ ] Lanzar Haztya v1.0 , con bases de datos de ClamAV. 
+- [ ] Publicar en F-Droid y Play Store (si es posible)
 - [ ] Contribuir a proyectos open-source de seguridad
 - [ ] Aprender análisis de malware avanzado
+- [ ] Seguir aprendiendo
 
 
 
