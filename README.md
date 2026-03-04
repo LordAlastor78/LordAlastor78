@@ -1,19 +1,4 @@
-<div align="center">
 
-### 🏅 Logros GitHub
-
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LordAlastor78&theme=dark)
-
-</div>
-
-[![GitHub](https://img.shields.io/badge/GitHub-LordAlastor78-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordAlastor78)
-[![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=security&logoColor=white)](https://www.cybersecurity.com/)
-
-
-
----
 
 ## 🎓 Sobre Mí
 
@@ -34,6 +19,19 @@ public class Alastor {
 - 🌱 **Aprendiendo:** Criptografía, análisis de malware, reverse engineering.
 - 💡 **Creencias:** Privacidad es un derecho humano, el código abierto hace el mundo más seguro.
 - 📫 **Contacto:** [GitHub](https://github.com/LordAlastor78).
+
+
+
+</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-LordAlastor78-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordAlastor78)
+[![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=security&logoColor=white)](https://www.cybersecurity.com/)
+
+
+
+---
 
 <div align="center">
 
