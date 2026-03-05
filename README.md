@@ -58,6 +58,13 @@ public class Alastor {
 
 ---
 
+## Otros proyectos a destacar: 
+
+### [VisualHTML](https://github.com/LordAlastor78/VisualHTML)
+
+### [WindChat](https://github.com/LordAlastor78/WindChat)
+
+
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes
@@ -128,12 +135,4 @@ Todos mis proyectos siempre siguen y seguirán licencias open-source:
 
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
-## 🌤️ Clima & Ubicación
-
-<p align="center">
-  
- ![Weather](https://en.wttr.in/Orense.png?A)
- 
-</p>
+<a href='https://ko-fi.com/alastor78' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
