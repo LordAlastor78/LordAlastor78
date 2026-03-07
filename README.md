@@ -1,12 +1,10 @@
-
-
-## 🎓 Sobre Mí
+## 🎓 About Me
 
 ```java
 public class Alastor {
-    String role = "Estudiante de Ingeniería Informática";
-    String passion = "Ciberseguridad & Hacking Ético";
-    String focus = "Desarrollo Android & Seguridad Móvil";
+    String role = "Computer Engineering Student";
+    String passion = "Cybersecurity & Ethical Hacking";
+    String focus = "Android Development & Mobile Security";
     boolean openSource = true;
     boolean privacyFirst = true;
 }
@@ -15,20 +13,18 @@ public class Alastor {
 <img src="https://pacman.abozanona.me?username=LordAlastor78" />
 
 
-- 🔭 **Trabajando en:** Aplicaciones de seguridad Android 100% offline.
-- 🌱 **Aprendiendo:** Criptografía, análisis de malware, reverse engineering.
-- 💡 **Creencias:** Privacidad es un derecho humano, el código abierto hace el mundo más seguro.
-- 📫 **Contacto:** [GitHub](https://github.com/LordAlastor78).
-
+- 🔭 **Currently working on:** 100% offline Android security applications.
+- 🌱 **Learning:** Cryptography, malware analysis, reverse engineering.
+- 💡 **Beliefs:** Privacy is a human right, open source makes the world safer.
+- 📫 **Contact:** [GitHub](https://github.com/LordAlastor78).
 
 
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-LordAlastor78-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordAlastor78)
-[![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=security&logoColor=white)](https://www.cybersecurity.com/)
-
+[![Android](https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=security&logoColor=white)](https://www.cybersecurity.com)
 
 
 ---
@@ -45,77 +41,79 @@ public class Alastor {
 
 ---
 
-## 🛡️ Proyecto Principal ( aún en progreso ) 
+## 🛡️ Main Project (still in progress)
 
-### [**Haztya**](https://github.com/LordAlastor78/Haztya) - Advanced Malware Scanner for Android 
+### [**Haztya**](https://github.com/LordAlastor78/Haztya) - Advanced Malware Scanner for Android
 
 
 [![Haztya](https://img.shields.io/badge/Haztya-v1.0.0-blue?style=for-the-badge)](https://github.com/LordAlastor78/Haztya)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)](https://github.com/LordAlastor78/Haztya/blob/main/LICENSE)
 [![Android](https://img.shields.io/badge/Android-7.0+-green?style=for-the-badge&logo=android)](https://github.com/LordAlastor78/Haztya)
 
-> **Escáner de malware 100% offline para Android** - Privacidad primero, sin tracking, código auditable
+> **100% offline malware scanner for Android** - Privacy first, no tracking, auditable code
 
 ---
 
-## Otros proyectos a destacar: 
+## Other Notable Projects:
 
 ### [VisualHTML](https://github.com/LordAlastor78/VisualHTML)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Easy+way+to+edit+HTML)](https://git.io/typing-svg)
+
 ### [WindChat](https://github.com/LordAlastor78/WindChat)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=585&height=90&lines=Fast+%2C+Private+and+Secure.+Ephemeral+as+wind)](https://git.io/typing-svg)
 
-## 🛠️ Stack Tecnológico
 
-### Lenguajes
+## 🛠️ Tech Stack
+
+### Languages
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-Básico-purple?style=flat-square&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/Kotlin-Basic-purple?style=flat-square&logo=kotlin)
 
 
-## 🎯 Objetivos 2026
+## 🎯 2026 Goals
 
-- [ ] Lanzar Haztya v1.0 , con bases de datos de ClamAV. 
-- [ ] Publicar en F-Droid y Play Store (si es posible)
-- [ ] Contribuir a proyectos open-source de seguridad
-- [ ] Aprender análisis de malware avanzado
-- [ ] Seguir aprendiendo
-
-
-
----
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si encuentras bugs o tienes ideas para mejorar mis repositorios , crea un fork y abre pull request ! 
-
----
-
-## 📜 Licencia
-
-Todos mis proyectos siempre siguen y seguirán licencias open-source:
-- **Código Original:** 100% escrito desde cero
-- **Sin Código Derivado:** Inspirado conceptualmente, no copiado
-
----
-
+- [ ] Launch Haztya v1.0 with ClamAV databases.
+- [ ] Publish on F-Droid and Play Store (if possible)
+- [ ] Contribute to open-source security projects
+- [ ] Learn advanced malware analysis
+- [ ] Keep learning
 
 
 ---
 
-## 💬 Filosofía
+## 🤝 Contributions
 
-> *"La privacidad no es algo que debas pedir. Es un derecho que debes defender."*
-
-> *"El código abierto hace el mundo más seguro. La transparencia es la mejor seguridad."*
-
-> *"En ciberseguridad, el conocimiento es tu mejor arma. Comparte lo que aprendes."*
+Contributions are welcome! If you find bugs or have ideas to improve my repositories, create a fork and open a pull request!
 
 ---
 
-## 📫 Conecta Conmigo
+## 📜 License
+
+All my projects always follow and will continue to follow open-source licenses:
+- **Original Code:** 100% written from scratch
+- **No Derived Code:** Conceptually inspired, not copied
+
+---
+
+
+---
+
+## 💬 Philosophy
+
+> *"Privacy is not something you should ask for. It's a right you must defend."*
+
+> *"Open source makes the world safer. Transparency is the best security."*
+
+> *"In cybersecurity, knowledge is your best weapon. Share what you learn."*
+
+---
+
+## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-LordAlastor78-blue?style=for-the-badge&logo=github)](https://github.com/LordAlastor78)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donar-red?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/alastor78)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-red?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/alastor78)
 
 ---
 
@@ -123,9 +121,9 @@ Todos mis proyectos siempre siguen y seguirán licencias open-source:
 
 ### 🛡️ **Haztya - Security Without Compromises** 🛡️
 
-*Hecho con ❤️ y ☕ por Alastor*
+*Made with ❤️ and ☕ by Alastor*
 
-[![Haztya Repo](https://img.shields.io/badge/Ver-Haztya-blue?style=for-the-badge)](https://github.com/LordAlastor78/Haztya)
+[![Haztya Repo](https://img.shields.io/badge/View-Haztya-blue?style=for-the-badge)](https://github.com/LordAlastor78/Haztya)
 
 </div>
 
@@ -136,3 +134,7 @@ Todos mis proyectos siempre siguen y seguirán licencias open-source:
 ![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <a href='https://ko-fi.com/alastor78' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+</div>
+
+---
