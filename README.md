@@ -16,7 +16,10 @@ public class Alastor {
 - 🔭 **Currently working on:** 100% offline Android security applications.
 - 🌱 **Learning:** Cryptography, malware analysis, reverse engineering.
 - 💡 **Beliefs:** Privacy is a human right, open source makes the world safer.
-- 📫 **Contact:** [GitHub](https://github.com/LordAlastor78).
+- 📫 **Contact:** : 
+[GitHub](https://github.com/LordAlastor78).
+
+Email : alastor78business@proton.me
 
 
 </div>
