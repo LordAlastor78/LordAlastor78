@@ -19,7 +19,7 @@ public class Alastor {
 - 📫 **Contact:** : 
 [GitHub](https://github.com/LordAlastor78).
 
-Email : alastor78business@proton.me
+Email : alastorbusiness78@proton.me
 
 
 </div>
