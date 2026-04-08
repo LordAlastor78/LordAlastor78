@@ -21,6 +21,8 @@ public class Alastor {
 
 Email : alastorbusiness78@proton.me
 
+Know more abt me here ! : [KnowMe](https://lordalastor78.github.io/KnowMe/)
+
 
 </div>
 
