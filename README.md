@@ -79,7 +79,7 @@ public class Alastor {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | [**VisualHTML**](https://github.com/LordAlastor78/VisualHTML) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Easy+way+to+edit+HTML)](https://git.io/typing-svg) | HTML • CSS • JS | 🟢 Active |
-| [**WindChat**](https://github.com/LordAlastor78/WindChat) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=585&height=90&lines=Fast+%2C+Private+and+Secure.+Ephemeral+as+wind)](https://git.io/typing-svg) | Kotlin • WebRTC | 🟡 Beta |
+| [**WindChat**](https://github.com/LordAlastor78/WindChat) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=585&height=90&lines=Fast+%2C+Private+and+Secure.+Ephemeral+as+wind)](https://git.io/typing-svg) | Typescript • WebRTC | 🟡 Beta |
 
 ---
 
