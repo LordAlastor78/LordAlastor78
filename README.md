@@ -5,7 +5,7 @@
 ## 🎓 About Me
 
 ```java
-public class Alastor {
+public class Cosmord {
     String role = "Informatic Engineering Student";
     String passion = "Cybersecurity & Ethical Hacking";
     String focus = "Android Development & Mobile Security";
@@ -15,7 +15,7 @@ public class Alastor {
 ```
 
 <div align="center">
-  <img src="https://pacman.abozanona.me?username=LordAlastor78" alt="Pac-Man Stats" />
+  <img src="https://pacman.abozanona.me?username=cosmord" alt="Pac-Man Stats" />
 </div>
 
 
@@ -27,9 +27,9 @@ public class Alastor {
 | 100% offline Android security applications | • Cryptography<br>• Malware Analysis<br>• Reverse Engineering | • Privacy is a human right<br>• Open source makes the world safer |
 
 📫 **Let's Connect:**  
-[![GitHub](https://img.shields.io/badge/GitHub-LordAlastor78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordAlastor78)  
+[![GitHub](https://img.shields.io/badge/GitHub-cosmord-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmord)  
 ✉️ alastorbusiness78@proton.me  
-🌐 [Know More About Me](https://lordalastor78.github.io/KnowMe/)
+🌐 [Know More About Me](https://cosmord.github.io/KnowMe/)
 
 ---
 
@@ -37,10 +37,10 @@ public class Alastor {
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordAlastor78&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordAlastor78&layout=donut&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00ff88&text_color=ffffff) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosmord&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmord&layout=donut&theme=radical&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00ff88&text_color=ffffff) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LordAlastor78&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=00ff88&ring=00ff88&fire=00ff88)
+![GitHub Streak](https://streak-stats.demolab.com?user=cosmord&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&border=00ff88&ring=00ff88&fire=00ff88)
 
 </div>
 
@@ -50,12 +50,12 @@ public class Alastor {
 
 <div align="center">
 
-### [**Irisbytes**](https://github.com/LordAlastor78/Irisbytes) — Advanced Malware Scanner for Android
+### [**Irisbytes**](https://github.com/cosmord/Irisbytes) — Advanced Malware Scanner for Android
 
-[![Irisbytes](https://img.shields.io/badge/Irisbytes-v1.0.0-00FF88?style=for-the-badge&logo=android&logoColor=white)](https://github.com/LordAlastor78/Irisbytes)
-[![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)](https://github.com/LordAlastor78/Irisbytes/blob/main/LICENSE)
-[![Android](https://img.shields.io/badge/Android-7.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/LordAlastor78/Irisbytes)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25_Offline-00A8E8?style=for-the-badge)](https://github.com/LordAlastor78/Irisbytes)
+[![Irisbytes](https://img.shields.io/badge/Irisbytes-v1.0.0-00FF88?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cosmord/Irisbytes)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)](https://github.com/cosmord/Irisbytes/blob/main/LICENSE)
+[![Android](https://img.shields.io/badge/Android-7.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cosmord/Irisbytes)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25_Offline-00A8E8?style=for-the-badge)](https://github.com/cosmord/Irisbytes)
 
 </div>
 
@@ -78,8 +78,8 @@ public class Alastor {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [**VisualHTML**](https://github.com/LordAlastor78/VisualHTML) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Easy+way+to+edit+HTML)](https://git.io/typing-svg) | HTML • CSS • JS | 🟢 Active |
-| [**WindChat**](https://github.com/LordAlastor78/WindChat) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=585&height=90&lines=Fast+%2C+Private+and+Secure.+Ephemeral+as+wind)](https://git.io/typing-svg) | Typescript • WebRTC | 🟡 Beta |
+| [**VisualHTML**](https://github.com/cosmord/VisualHTML) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Easy+way+to+edit+HTML)](https://git.io/typing-svg) | HTML • CSS • JS | 🟢 Active |
+| [**WindChat**](https://github.com/cosmord/WindChat) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=585&height=90&lines=Fast+%2C+Private+and+Secure.+Ephemeral+as+wind)](https://git.io/typing-svg) | Typescript • WebRTC | 🟡 Beta |
 
 ---
 
@@ -197,10 +197,10 @@ All my projects adhere to **open-source principles**:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-LordAlastor78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordAlastor78)
+[![GitHub](https://img.shields.io/badge/GitHub-cosmord-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmord)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-alastorbusiness78-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alastorbusiness78@proton.me)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alastor78)
-[![Portfolio](https://img.shields.io/badge/Portfolio-KnowMe-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://lordalastor78.github.io/KnowMe/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KnowMe-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://cosmord.github.io/KnowMe/)
 
 
 
