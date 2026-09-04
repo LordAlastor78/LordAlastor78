@@ -1,7 +1,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════
      A L A S T O R  ·  C O S M O R D
-     security researcher · android developer · privacy advocate
+     cybersecurity · android · privacy
      privacy-first · offline-by-default · open source
      ═══════════════════════════════════════════════════════════════ -->
 
@@ -15,6 +15,9 @@
 [![Stars](https://img.shields.io/github/stars/cosmord?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=00ff88)](https://github.com/cosmord)
 [![Views](https://komarev.com/ghpvc/?username=cosmord&style=for-the-badge&color=00ff88&label=Profile+Views)](https://github.com/cosmord)
 [![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosmord)
+
+
+<img src="https://skillicons.dev/icons?i=java,py,html,css,cpp&theme=dark" alt="languages"/>
 
 </div>
 
@@ -83,21 +86,10 @@ public final class Alastor {
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,py,c,ts,js,html,css&theme=dark" alt="languages"/>
-
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=androidstudio,gradle,vscode,git,github,linux,bash,ps,docker&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,androidstudio,godot,gradle,vscode,vercel,vscodium,git,github,linux,maven,md,cmake,cloudflare&theme=dark" alt="tools"/>
 
-**Security Arsenal**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00539B?style=flat-square&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
 **Android-First**
 
@@ -177,7 +169,6 @@ public final class Alastor {
 | [**WingetFix**](https://github.com/cosmord/WingetFix) | Repair / reinstall winget when it breaks | PowerShell | 📦 Archived |
 | [**WaEnhancerUpdater**](https://github.com/cosmord/WaEnhancerUpdater) | Update helper for WaEnhancer | Python | 🟢 Stable |
 | [**CubirdsProjectAEDI**](https://github.com/cosmord/CubirdsProjectAEDI) | University project — data structures & algorithms | Java | ✅ Shipped |
-| [**Awesome-Embedded-SVR**](https://github.com/cosmord/Awesome-Embedded-Systems-Vulnerability-Research) 🔱 | Curated IoT/embedded vuln-research resources | — | 🔱 Fork |
 | [**FakeTraveler**](https://github.com/cosmord/FakeTraveler) 🔱 | Mock location provider for Android | Java | 🔱 Fork |
 
 > 🔒 **In private development:** `Stellar` — serverless, local-first P2P chat (Signal Protocol + WebRTC + SQLCipher, zero-knowledge) · `WinSurgery` — system utility suite with a local AI copilot · `NoirSec`. They go public when they're ready.
@@ -188,7 +179,7 @@ public final class Alastor {
 
 ```text
 🚀  Stellar   V1.0 LAUNCH          ████████░░   80%   🔴 HIGH
-📱  Winsurgery                     ███░░░░░░░   30%   🔴 HIGH
+📱  Winsurgery                     ███████░░░   30%   🔴 HIGH
 🤝  OSS SECURITY CONTRIBUTIONS     █████░░░░░   50%   🟡 MED
 🔬  MALWARE ANALYSIS MASTERY       ███░░░░░░░   35%   🟡 MED
 🧠  CONTINUOUS LEARNING            ∞∞∞∞∞∞∞∞∞∞    ∞    🟢 ALWAYS
