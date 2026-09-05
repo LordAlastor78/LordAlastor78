@@ -122,7 +122,7 @@ public final class Alastor {
 
 <div align="center">
 
-### [**IRISBYTES**](https://github.com/cosmord/Irisbytes) — Advanced Malware Scanner for Android
+### [**IRISBYTES**](https://github.com/cosmord/Irisbytes) — Advanced Malware Scanner for Android ( coming soon ) 
 
 [![Version](https://img.shields.io/badge/Version-v1.0.0-00FF88?style=for-the-badge&logo=android&logoColor=white)](https://github.com/cosmord/Irisbytes)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)](https://github.com/cosmord/Irisbytes/blob/main/LICENSE)
